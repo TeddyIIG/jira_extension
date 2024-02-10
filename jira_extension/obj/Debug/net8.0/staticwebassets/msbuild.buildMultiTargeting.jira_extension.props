@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jira_extension.props" />
+</Project>
